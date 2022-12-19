@@ -1,3 +1,12 @@
+
+
+// Responsável pelo o display de música
+const musicData = ['./src/music/audio01.mp3','./src/music/audio02.mp3','./src/music/audio03.mp3','./src/music/audio04.mp3','./src/music/audio05.mp3','./src/music/audio06.mp3']
+
+const $audio = document.getElementsByClassName('audioControls')
+
+$audio[0].src=musicData[Math.floor(Math.random() * musicData.length)]
+
 const cardBoard = document.querySelector("#cardboard");
 const imgs = [
   "2poke.svg",
