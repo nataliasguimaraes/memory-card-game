@@ -13,12 +13,36 @@
   body {
     height: 100vh;
     display: flex;
-    background: black;
+    background: #eac59b;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
 
   }
-  
+  .audioControls{
+    margin-top:35px;
+  }
+  .logo-90s{
+    height: 100px;
+  }
+
+  .title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  h1{
+    background:  linear-gradient(135deg, #3643b1 0%, #f608b4 100%);
+    background-size: 100;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
   #cardboard {
-    width: 640px;
+    width: 680px;
     height: 640px;
     margin: auto;
     display: flex;
@@ -26,8 +50,8 @@
   }
   
   .memory-card {
-    width: calc(25% - 10px);
-    height: 33%;
+    width: 160px;
+    height: 200px;
     margin: 5px;
     transform-style: preserve-3d;
     transition: 0.3s;
@@ -47,7 +71,6 @@
   .back-face {
     width: 100%;
     height: 100%;
-    padding: 5px;
     position: absolute;
     background: rgb(232, 165, 8);
     background-size: cover;
