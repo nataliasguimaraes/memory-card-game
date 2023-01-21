@@ -80,6 +80,7 @@ https://simpleicons.org/?q=react
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/104440384/197401378-9a96dbaf-852f-430e-87e9-74934c9e10f3.png"> Pontos Abordados: <!---write here: learned concepts; -->
 
+ * HTML
   
 * CSS
   * [`display`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/display) para especificar o tipo de caixa de renderização usada por um element;
