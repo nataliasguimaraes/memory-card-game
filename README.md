@@ -81,31 +81,16 @@ https://simpleicons.org/?q=react
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/104440384/197401378-9a96dbaf-852f-430e-87e9-74934c9e10f3.png"> Pontos Abordados: <!---write here: learned concepts; -->
 
   
-* HTML
-  * [`Div`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/div) Foram utilizadas divs para criar os containers.
-  * [`h1`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Heading_Elements) [`h2`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/Heading_Elements)  utilizados para títulos e subtítulos;
-  * [`form`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/form) para criar as seções onde o usuário irá submeter suas informações para inscriçao;
-  * [`input`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/input) utilizado para criar controles interativos para formulários baseados na web para receber dados do usuário;
-  * [`p`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/p) utilizado de forma semântica para parágrafos;
-  * [`img`](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/img) utilizado para inserir imagens no html.
-  
 * CSS
-  * [`font-family`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para determinar a fonte do projeto;
-  * [`text-align`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para alinhar o conteúdo;
-  * [`overflow-hidden`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/overflow) para especificar que o conteúdo de um elemento de nível de bloco seja cortado, se exição de barras de rolagem;
-  * [`margin`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)[`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) para definir a área de preenchimento e as bordas dos elementos;
-  * [`float`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/float) para retirar um elemento de seu fluxo normal e colocá-lo em outra posição no container;
   * [`display`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/display) para especificar o tipo de caixa de renderização usada por um element;
-  * dentre outros...
-  
+  * [`flex-direction`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para  definir como os itens flexíveis são colocados no contêiner;
+  * [`background-clip`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para especificar se o fundo de um elemento, seja cor ou imagem, se extende debaixo de sua área de borda, preenchimento ou conteúdo;
+  * [`transform`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin) para modificar o espaço coordenado do modelo de formatação.
+    
 * JAVASCRIPT
-  * [`font-family`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para determinar a fonte do projeto;
-  * [`text-align`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para alinhar o conteúdo;
-  * [`overflow-hidden`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/overflow) para especificar que o conteúdo de um elemento de nível de bloco seja cortado, se exição de barras de rolagem;
-  * [`margin`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)[`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) para definir a área de preenchimento e as bordas dos elementos;
-  * [`float`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/float) para retirar um elemento de seu fluxo normal e colocá-lo em outra posição no container;
-  * [`display`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/display) para especificar o tipo de caixa de renderização usada por um element;
-  * dentre outros...
+  * [`const`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family) para criar uma variável cujo o valor é fixo;
+  * [`let`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-align) para declarar uma variável local no escopo do bloco atual;
+  * [`function flipCard`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin) para criar uma nova função;
  
   <!------------------------------------RUN APP-->
  
