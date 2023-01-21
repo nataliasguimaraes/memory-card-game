@@ -25,7 +25,7 @@ https://simpleicons.org/?q=react
 
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663188-8298a9bf-f3ce-4881-944f-e94edf37beed.png"><a/>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img  alt="CSS3"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663193-40e11362-c724-49cf-a0b5-a20f98c8e4ba.png"><a/>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/104440384/213870569-4a58083b-c29a-44a6-9edf-6aa13fd35378.png)"><a/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/104440384/213870668-03b47ff5-4ae2-4271-8c0d-ed1cd38c035b.png"><a/>
   
 </p>
   
