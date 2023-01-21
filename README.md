@@ -1,3 +1,5 @@
+EM ATUALIZAÇÃO
+
 <!-- VISUALIZAR NO VSCODE  CTRL + K  V -->
 
 <!-- BADGES https://www.youtube.com/watch?v=cRoBt6AZgjc
@@ -14,8 +16,8 @@ https://simpleicons.org/?q=react
 
 
  <!------------------------------------SHIELDS PROJECT-->
-  ![GitHub last commit](https://img.shields.io/github/last-commit/nataliasguimaraes/Contentpage)
-  ![GitHub](https://img.shields.io/github/license/nataliasguimaraes/Contentpage)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/nataliasguimaraes/memory-card-game)
+  ![GitHub](https://img.shields.io/github/license/nataliasguimaraes/memory-card-game)
   
   
 
