@@ -54,10 +54,10 @@ https://simpleicons.org/?q=react
 
    <!------------------------------------SUMMARY-->
 <p align="center">
-  <a href="https://github.com/nataliasguimaraes/Contentpage#--sobre-a-aplica%C3%A7%C3%A3o-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/Contentpage#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/Contentpage#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nataliasguimaraes/Contentpage#-rodando-a-aplica%C3%A7%C3%A3o">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/memory-card-game#--sobre-a-aplica%C3%A7%C3%A3o-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/memory-card-game#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/memory-card-game#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nataliasguimaraes/memory-card-game#-rodando-a-aplica%C3%A7%C3%A3o">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <!-- a href="https://github.com/DIGOARTHUR/Dashgo#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;--!>
 </p>  
 
