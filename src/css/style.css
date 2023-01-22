@@ -19,6 +19,12 @@
     align-items: center;
 
   }
+
+  .header{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+  }
   .audioControls{
     margin-top:105px;
     align-items: center;
