@@ -13,15 +13,16 @@
   body {
     height: 100vh;
     display: flex;
-    background: #eac59b;
-    display: flex;
+    background: #d10490;
     flex-direction: column;
-    justify-content:center;
-    align-items:center;
+    justify-content: center;
+    align-items: center;
 
   }
   .audioControls{
-    margin-top:35px;
+    margin-top:105px;
+    align-items: center;
+
   }
   .logo-90s{
     height: 100px;
@@ -35,7 +36,7 @@
   }
 
   h1{
-    background:  linear-gradient(135deg, #3643b1 0%, #f608b4 100%);
+    background:  linear-gradient(335deg, #3643b1 0%, #030008 100%);
     background-size: 100;
     -webkit-background-clip: text;
     -moz-background-clip: text;
