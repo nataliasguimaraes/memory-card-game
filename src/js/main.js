@@ -1,10 +1,11 @@
 
 
 // Responsável pelo o display de música
+                         //0                        // 1
 const musicData = ['./src/music/audio01.mp3','./src/music/audio02.mp3','./src/music/audio03.mp3','./src/music/audio04.mp3','./src/music/audio05.mp3','./src/music/audio06.mp3']
 
 const $audio = document.getElementsByClassName('audioControls')
-
+                 // musicData[1,2,3...]
 $audio[0].src=musicData[Math.floor(Math.random() * musicData.length)]
 
 const cardBoard = document.querySelector("#cardboard");
@@ -17,9 +18,23 @@ const imgs = [
   "8naruto.svg"
 ];
 
+
+function shuffleArray(arr) {
+  // Loop em todos os elementos
+for (let i = arr.length - 1; i > 0; i--) {
+      // Escolhendo elemento aleatório
+  const j = Math.floor(Math.random() * (i + 1));
+  // Reposicionando elemento
+  [arr[i], arr[j]] = [arr[j], arr[i]];
+}
+// Retornando array com aleatoriedade
+return arr;
+}
+
+
 let cardHTML = "";
 
-imgs.forEach(img => {
+shuffleArray(imgs).forEach(img => {
   cardHTML += `<div class="memory-card" data-card="${img}">
     <img class="front-face" src="img/${img}"/>
     <img class="back-face" src="img/1fundo.svg">
