@@ -74,7 +74,7 @@ https://simpleicons.org/?q=react
 > Esse foi meu primeiro projeto desenvolvido com javascript, com o objetivo de aprimorar meus conhecimentos na linguagem. É um jogo da memória simples, com figuras que representam animes/desenhos assistidos por crianças dos anos 90.
 
 [![Vídeo](https://user-images.githubusercontent.com/104440384/213870530-34bec5fe-7b25-4ff0-bdc3-221b1507b18b.png)](https://youtu.be/aQ9Lto_SZVk)
-  ![jogo da memoria gif](https://user-images.githubusercontent.com/104440384/213870479-c32c4fa4-da19-4b2d-a740-385e5efa91c3.gif)
+  ![jogo da memoria gif](https://user-images.githubusercontent.com/104440384/213950886-5fcdb670-3f31-4ef7-a4b7-4af1ce714ccc.gif)
   
   <!------------------------------------PRODUCTION SKILLS-->
 
