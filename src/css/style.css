@@ -17,21 +17,28 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  align-content: center;
 
 }
+
+#player {
+  audio:-webkit-media-controls-panel {background-color: red;}
+}
+
 
 .header{
   display: flex;
   flex-direction: column;
-  align-items:center;
+  align-items: center;
 }
+
 .audioControls{
-  margin-top:105px;
+  margin-top: 20px;
   align-items: center;
 
 }
 .logo-90s{
-  height: 100px;
+  height: 80px;
 }
 
 .title{
@@ -57,8 +64,8 @@ h1{
 }
 
 .memory-card {
-  width: 160px;
-  height: 200px;
+  width: 140px;
+  height: 175px;
   margin: 5px;
   transform-style: preserve-3d;
   transition: 0.3s;
@@ -86,6 +93,7 @@ h1{
 .front-face {
   transform: rotateY(180deg);
 }
+
 @media screen and (max-width: 992px) {
 
   #cardboard {
