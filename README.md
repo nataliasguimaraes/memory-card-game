@@ -73,7 +73,7 @@ https://simpleicons.org/?q=react
 # <img  alt="Layout"  width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/3474/3474362.png">  Layout <!---write here : talk a little about project: what's does, example.  -->
 > Esse foi meu primeiro projeto desenvolvido com javascript, com o objetivo de aprimorar meus conhecimentos na linguagem. É um jogo da memória simples, com figuras que representam animes/desenhos assistidos por crianças dos anos 90.
 
-[![Vídeo](https://user-images.githubusercontent.com/104440384/213870530-34bec5fe-7b25-4ff0-bdc3-221b1507b18b.png)](https://youtu.be/WWFbWywLvDQ)
+[![Vídeo](https://user-images.githubusercontent.com/104440384/213870530-34bec5fe-7b25-4ff0-bdc3-221b1507b18b.png)](https://youtu.be/aQ9Lto_SZVk)
   ![jogo da memoria gif](https://user-images.githubusercontent.com/104440384/213870479-c32c4fa4-da19-4b2d-a740-385e5efa91c3.gif)
   
   <!------------------------------------PRODUCTION SKILLS-->
